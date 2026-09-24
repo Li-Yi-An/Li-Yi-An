@@ -30,5 +30,8 @@
 ### 🔨What I Want to Build
 Using my professional skills to turn idea into  games
 
+### 🏢Preferred Role
+Not Sure Yet
+
 ### 📪Contact
 **Email address:** 1723957838@qq.com

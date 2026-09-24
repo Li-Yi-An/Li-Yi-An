@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi there 👋I'm Li Yi'an
 
-<!--
-**Li-Yi-An/Li-Yi-An** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🥳About Me
+- Digital Media Technology Student
+- game enthusiast
 
-Here are some ideas to get you started:
+### ❤️Interests
+- programming languages
+- game engines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Current Skills (beginner level only)
+- Python
+- C
+
+### 📘Currently Learning
+#### Languages
+- C
+- C++
+
+#### Tools
+- Git & GitHub
+- Visual Studio
+- Photoshop
+- Jianying
+
+#### AI
+- DeepSeek
+- WorkBuddy
+
+### 🔨What I Want to Build
+Using my professional skills to turn idea into  games
+
+### 📪Contact
+**Email address:** 1723957838@qq.com
